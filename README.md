@@ -1,6 +1,8 @@
 # Cluster_Simulacao
 Simulação simples de cluster utilizando Docker Desktop, prompt de comando e Notepad
 
+Link correto para o vídeo: https://youtu.be/y6qHQPpYrwk
+
 //Para atualizar versão no prompt:
 
 wl --update

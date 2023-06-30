@@ -2,6 +2,7 @@
 Simulação simples de cluster utilizando Docker Desktop, prompt de comando e Notepad
 
 //Para atualizar versão no prompt:
+
 wl --update
 
 //Testando versão
